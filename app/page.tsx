@@ -29,8 +29,7 @@ export default function Page() {
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente temporibus sit ipsa, minus delectus ab explicabo et aliquid. A, explicabo?
         </p>
         <p>
-          Deploy your Nextfolio site with Vercel in minutes and follow the set
-          up instructions in Getting Started post.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita nisi eveniet voluptatibus?
         </p>
       </div>
     </section>
