@@ -20,7 +20,7 @@ export default function Photos() {
             alt: "",
           },
           {
-            src: "/photos/Portrait_4.png",
+            src: "/photos/IMG_4631.jpg",
             alt: "",
           },
           {
