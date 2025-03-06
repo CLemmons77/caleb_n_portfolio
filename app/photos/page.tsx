@@ -15,34 +15,52 @@ export default function Photos() {
         columns={3}
         images={[
           {
-            src: "/photos/photo1.jpg",
-            alt: "Roman columns",
-            href: "https://unsplash.com/photos/people-walking-near-building-during-daytime-dFLBDQQeffU?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+            src: "/photos/Portrait_1.png",
+            alt: "",
           },
           {
-            src: "/photos/photo2.jpg",
-            alt: "Big Ben",
-            href: "https://unsplash.com/photos/big-ben-london-MdJq0zFUwrw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+            src: "/photos/Portrait_4.png",
+            alt: "",
           },
           {
-            src: "/photos/photo3.jpg",
-            alt: "Sacré-Cœur Basilica",
-            href: "https://unsplash.com/photos/a-view-of-the-inside-of-a-building-through-a-circular-window-Tp-3hrx88J4",
+            src: "/photos/Portrait_3.png",
+            alt: "",
           },
           {
-            src: "/photos/photo4.jpg",
-            alt: "Eiffel Tower",
-            href: "https://unsplash.com/photos/the-eiffel-tower-towering-over-the-city-of-paris-OgPuPvPsHLM?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+            src: "/photos/Portrait_5.png",
+            alt: "",
           },
           {
-            src: "/photos/photo5.jpg",
-            alt: "Taj Mahal",
-            href: "https://unsplash.com/photos/taj-mahal-india-IPlPkWPJ2fo",
+            src: "/photos/Silence 1.png",
+            alt: "",
           },
           {
-            src: "/photos/photo6.jpg",
-            alt: "Colosseum",
-            href: "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-3cyBR1rIJmA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+            src: "/photos/Silence 2.png",
+            alt: "",
+          },
+          {
+            src: "/photos/Silence 3.png",
+            alt: "",
+          },
+          {
+            src: "/photos/Silence 4.png",
+            alt: "",
+          },
+          {
+            src: "/photos/Silence 5.png",
+            alt: "",
+          },
+          {
+            src: "/photos/IMG_0137.jpg",
+            alt: "",
+          },
+          {
+            src: "/photos/IMG_0140.jpg",
+            alt: "",
+          },
+          {
+            src: "/photos/IMG_0141.jpg",
+            alt: "",
           },
         ]}
       />
@@ -50,22 +68,26 @@ export default function Photos() {
       <ImageGrid
         columns={2}
         images={[
-          { src: "/photos/photo1.jpg", alt: "Roman columns" },
-          { src: "/photos/photo2.jpg", alt: "Big Ben" },
-          { src: "/photos/photo3.jpg", alt: "Sacré-Cœur Basilica" },
-          { src: "/photos/photo4.jpg", alt: "Eiffel Tower" },
+          { src: "/photos/IMG_7778.jpg", alt: "" },
+          { src: "/photos/IMG_7780.jpg", alt: "" },
+          { src: "/photos/IMG_7783.jpg", alt: "" },
+          { src: "/photos/IMG_7870.jpg", alt: "" },
+          { src: "/photos/IMG_8015.jpg", alt: "" },
+          { src: "/photos/IMG_8067.jpg", alt: "" },
         ]}
       />
 
       <ImageGrid
         columns={4}
         images={[
-          { src: "/photos/photo1.jpg", alt: "Roman columns" },
-          { src: "/photos/photo2.jpg", alt: "Big Ben" },
-          { src: "/photos/photo3.jpg", alt: "Sacré-Cœur Basilica" },
-          { src: "/photos/photo4.jpg", alt: "Eiffel Tower" },
-          { src: "/photos/photo5.jpg", alt: "Taj Mahal" },
-          { src: "/photos/photo6.jpg", alt: "Colosseum" },
+          { src: "/photos/katelyns grad 1.png", alt: "" },
+          { src: "/photos/katelyns grad 22.png", alt: "" },
+          { src: "/photos/katelyns grad 13.png", alt: "" },
+          { src: "/photos/katelyns grad 8.png", alt: "" },
+          { src: "/photos/katelyns grad 17.png", alt: "" },
+          { src: "/photos/katelyns grad 16.png", alt: "" },
+          { src: "/photos/katelyns grad 25.png", alt: "" },
+          { src: "/photos/katelyns grad 26.png", alt: "" },
         ]}
       />
     </section>
