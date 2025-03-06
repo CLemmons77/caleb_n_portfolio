@@ -8,6 +8,7 @@ export const metadata: Metadata = {
 };
 
 export default function Photos() {
+  
   return (
     <section>
       <h1 className="mb-8 text-2xl font-medium tracking-tight">Photos</h1>
@@ -89,7 +90,8 @@ export default function Photos() {
           { src: "/photos/katelyns grad 25.png", alt: "" },
           { src: "/photos/katelyns grad 26.png", alt: "" },
         ]}
-      />
+      /> 
+
     </section>
   );
 }
