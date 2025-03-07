@@ -34,7 +34,7 @@ export default function Projects() {
           <Link
             key={index}
             href={project.url}
-            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-b-2 hover:border-gray-700 hover:dark:border-gray-200"
+            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-2 hover:p-2 hover:rounded-md hover:border-gray-700 hover:dark:border-gray-200"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -51,7 +51,7 @@ export default function Projects() {
           <Link
             key={index}
             href={project.url}
-            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-b-2 hover:border-gray-700 hover:dark:border-gray-200"
+            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-2 hover:p-2 hover:rounded-md hover:border-gray-700 hover:dark:border-gray-200"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -68,7 +68,7 @@ export default function Projects() {
           <Link
             key={index}
             href={project.url}
-            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-b-2 hover:border-gray-700 hover:dark:border-gray-200"
+            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-2 hover:p-2 hover:rounded-md hover:border-gray-700 hover:dark:border-gray-200"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -85,7 +85,7 @@ export default function Projects() {
           <Link
             key={index}
             href={project.url}
-            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-b-2 hover:border-gray-700 hover:dark:border-gray-200"
+            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-2 hover:p-2 hover:rounded-md hover:border-gray-700 hover:dark:border-gray-200"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -102,7 +102,7 @@ export default function Projects() {
           <Link
             key={index}
             href={project.url}
-            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-b-2 hover:border-gray-700 hover:dark:border-gray-200"
+            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-2 hover:p-2 hover:rounded-md hover:border-gray-700 hover:dark:border-gray-200"
             target="_blank"
             rel="noopener noreferrer"
           >
