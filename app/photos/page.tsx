@@ -69,12 +69,12 @@ export default function Photos() {
       <ImageGrid
         columns={2}
         images={[
-          { src: "/photos/IMG_7778.jpg", alt: "" },
-          { src: "/photos/IMG_7780.jpg", alt: "" },
-          { src: "/photos/IMG_7783.jpg", alt: "" },
-          { src: "/photos/IMG_7870.jpg", alt: "" },
-          { src: "/photos/IMG_8015.jpg", alt: "" },
-          { src: "/photos/IMG_8067.jpg", alt: "" },
+          { src: "/photos/IMG_7778.JPG", alt: "" },
+          { src: "/photos/IMG_7780.JPG", alt: "" },
+          { src: "/photos/IMG_7783.JPG", alt: "" },
+          { src: "/photos/IMG_7870.JPG", alt: "" },
+          { src: "/photos/IMG_8015.JPG", alt: "" },
+          { src: "/photos/IMG_8067.JPG", alt: "" },
         ]}
       />
 
