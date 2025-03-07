@@ -10,14 +10,14 @@ export const metadata: Metadata = {
 export default function Projects() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl border-2 p-1 text-center rounded-md font-medium tracking-tight">Projects</h1>
+      <h1 className="mb-8 text-2xl border-2 p-1 text-center rounded-md font-medium tracking-tight hover:invert hover:bg-white hover:dark:bg-black duration-300">Projects</h1>
       <div>
         <h2 className="mb-8 text-xl text-center tracking-tight border-b-2">Corporate</h2>
         {projects.slice(0, 6).map((project, index) => (
           <Link
             key={index}
             href={project.url}
-            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-b-2 hover:border-gray-700 hover:dark:border-gray-200"
+            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 hover:border-2 hover:p-2 hover:rounded-md hover:border-gray-700 hover:dark:border-gray-200"
             target="_blank"
             rel="noopener noreferrer"
           >
