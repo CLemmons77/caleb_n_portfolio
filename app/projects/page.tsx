@@ -4,7 +4,7 @@ import { projects } from "./project-data";
 
 export const metadata: Metadata = {
   title: "Projects",
-  description: "Video Projects",
+  description: "Nextfolio Projects",
 };
 
 export default function Projects() {
@@ -16,7 +16,7 @@ export default function Projects() {
           <Link
             key={index}
             href={project.url}
-            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80 border-b-2 border-gray-700 dark:border-gray-200"
+            className="flex flex-col space-y-1 mb-5 transition-opacity duration-200 hover:opacity-80"
             target="_blank"
             rel="noopener noreferrer"
           >

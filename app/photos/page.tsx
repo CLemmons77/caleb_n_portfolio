@@ -4,7 +4,7 @@ import { ImageGrid } from "app/components/image-grid";
 
 export const metadata: Metadata = {
   title: "Photos",
-  description: "Photos",
+  description: "My Photos",
 };
 
 export default function Photos() {
