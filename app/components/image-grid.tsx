@@ -48,7 +48,7 @@ export const ImageGrid: React.FC<ImageGridProps> = ({
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
                 priority
-                className="rounded-lg object-cover hover:scale-175 transition-all duration-300 hover:z-50 hover:overflow-visible"
+                className="rounded-lg object-cover hover:scale-125 transition-all duration-300 hover:z-50 hover:overflow-visible"
               />
             )}
           </div>
