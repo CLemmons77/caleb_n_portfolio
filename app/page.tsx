@@ -15,21 +15,26 @@ export default function Page() {
           priority
         />
       </a>
-      <h1 className="mb-8 text-2xl font-medium tracking-tight">
-        Personalized Greeting!
-      </h1>
+      <h1 className="mb-8 text-2xl font-medium tracking-tight">Hey There!</h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti sequi beatae autem tempore maxime et debitis mollitia, consequatur exercitationem odio.
+          I am a photographer, video editor, and videographer who uses the Adobe
+          editing suite.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam maiores culpa molestiae, quidem distinctio nemo.
+          With professional experience in different genres of projects such as
+          weddings, corporate events, TV advertisements, and social media
+          advertisements, I have the skills and knowledge to bring your vision
+          to life.
         </p>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente temporibus sit ipsa, minus delectus ab explicabo et aliquid. A, explicabo?
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente
+          temporibus sit ipsa, minus delectus ab explicabo et aliquid. A,
+          explicabo?
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita nisi eveniet voluptatibus?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita nisi
+          eveniet voluptatibus?
         </p>
       </div>
     </section>
