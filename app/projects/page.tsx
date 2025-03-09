@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function Projects() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl border-2 p-1 text-center rounded-md font-medium tracking-tight hover:invert hover:bg-white hover:dark:bg-black duration-300">Projects</h1>
+      <h1 className="mb-8 text-2xl border-2 p-1 text-center rounded-md font-medium tracking-tight hover:invert hover:bg-white hover:dark:bg-black duration-300 cursor-default">Projects</h1>
       <div>
         <h2 className="mb-8 text-xl text-center tracking-tight border-b-2">Corporate</h2>
         {projects.slice(0, 6).map((project, index) => (
