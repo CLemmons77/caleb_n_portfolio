@@ -8,7 +8,7 @@ export const metaData = {
 };
 
 export const socialLinks = {
-  instagram: "https://www.instagram.com/crnesbitt11/",
+  instagram: "https://www.instagram.com/studio21.nc/",
   linkedin: "https://www.linkedin.com/in/caleb-nesbitt-821433303/",
   email: "mailto:calebnesbitt11@gmail.com",
 };
