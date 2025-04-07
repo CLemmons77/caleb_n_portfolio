@@ -18,13 +18,13 @@ export function Navbar() {
           </Link>
         </div>
         <div className="flex flex-row gap-4 mt-6 md:mt-0 md:ml-auto items-center">
-            <Link
-              key="/"
-              href='/'
-              className="transition-all hover:text-neutral-800 dark:hover:text-neutral-200 flex align-middle relative hover:border-b-2 hover:border-neutral-800 dark:hover:border-neutral-200 max-sm:hidden"
-            >
-              Home
-            </Link>
+          <Link
+            key="/"
+            href="/"
+            className="transition-all hover:text-neutral-800 dark:hover:text-neutral-200 flex align-middle relative hover:border-b-2 hover:border-neutral-800 dark:hover:border-neutral-200 max-sm:hidden"
+          >
+            Home
+          </Link>
           {Object.entries(navItems).map(([path, { name }]) => (
             <Link
               key={path}
