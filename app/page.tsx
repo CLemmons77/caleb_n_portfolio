@@ -28,13 +28,16 @@ export default function Page() {
           to life.
         </p>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente
-          temporibus sit ipsa, minus delectus ab explicabo et aliquid. A,
-          explicabo?
+          Whether it’s capturing authentic moments or crafting cinematic edits,
+          my passion lies in creating compelling visuals that resonate. From the
+          first frame to the final cut, I focus on making each project uniquely
+          powerful and visually stunning.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita nisi
-          eveniet voluptatibus?
+          With a sharp eye for detail and a commitment to quality, I bring
+          creativity and professionalism to every shoot and edit. No matter the
+          project size, I deliver polished content that connects with audiences
+          and exceeds expectations.
         </p>
       </div>
     </section>

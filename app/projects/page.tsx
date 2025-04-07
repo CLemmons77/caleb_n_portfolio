@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function Projects() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl border-2 p-1 text-center rounded-md font-medium tracking-tight invert bg-white dark:bg-black cursor-default">Projects</h1>
+      <h1 className="mb-8 text-2xl border-2 p-1 text-center rounded-md font-medium tracking-tight invert bg-white dark:bg-black cursor-default">Video Projects</h1>
       <div className="text-center">
         <h2 className="mb-8 text-xl tracking-tight border-2 rounded-md">Corporate</h2>
         {projects.slice(0, 6).map((project, index) => (
